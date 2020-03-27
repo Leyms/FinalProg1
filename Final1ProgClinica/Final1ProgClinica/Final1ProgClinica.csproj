@@ -162,6 +162,25 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="imgfinal\consulta.jpg" />
+    <Content Include="imgfinal\consultanew.png" />
+    <Content Include="imgfinal\doctores.jpg" />
+    <Content Include="imgfinal\fondo1.jpeg" />
+    <Content Include="imgfinal\fondo2.png" />
+    <Content Include="imgfinal\fondo3.jpg" />
+    <Content Include="imgfinal\habitacionescrud.jpg" />
+    <Content Include="imgfinal\logo1.jpg" />
+    <Content Include="imgfinal\logo2.jpg" />
+    <Content Include="imgfinal\logo2new.png" />
+    <Content Include="imgfinal\logo3.png" />
+    <Content Include="imgfinal\logoCorazonazul.png" />
+    <Content Include="imgfinal\logoCorazonrojo.png" />
+    <Content Include="imgfinal\mantenimiento.png" />
+    <Content Include="imgfinal\mantenimiento1.png" />
+    <Content Include="imgfinal\medicocrud.jpg" />
+    <Content Include="imgfinal\paciente crud.jpg" />
+    <Content Include="imgfinal\paciente.png" />
+    <Content Include="imgfinal\procmed.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
@@ -189,6 +208,7 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\Altas\Create.cshtml" />
     <Content Include="Views\Altas\Delete.cshtml" />
     <Content Include="Views\Altas\Details.cshtml" />
@@ -219,6 +239,9 @@
     <Content Include="Views\Pacientes\Details.cshtml" />
     <Content Include="Views\Pacientes\Edit.cshtml" />
     <Content Include="Views\Pacientes\Index.cshtml" />
+=======
+    <Content Include="Views\Home\OpcionesGenerales.cshtml" />
+>>>>>>> Test
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
